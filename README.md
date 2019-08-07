@@ -18,7 +18,7 @@ allprojects {
 Add dependency to your module `build.gradle`:
 
 ```gradle
-implementation 'com.github.aashitshah26:AutoChangeTextView:Tag'
+implementation 'com.github.aashitshah26:AutoChangeTextView:1.0'
 ```
 
 ## Usage
