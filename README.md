@@ -3,6 +3,8 @@
 
 This project will help you to enter array of texts which will be showed one after one in text view after a given delay with/without animation .
 
+![](20190807_221654.gif)
+
 To add AutoChangeTextView in your project follow the following steps :-
 
 ## Installing
