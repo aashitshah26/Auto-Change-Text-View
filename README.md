@@ -84,3 +84,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+## License 
+
+![](LICENSE.md)
