@@ -1,5 +1,6 @@
 # AutoChangeTextView
 [![AutoChangeTextView](https://jitpack.io/v/aashitshah26/AutoChangeTextView.svg)](https://jitpack.io/#aashitshah26/AutoChangeTextView)
+![](https://img.shields.io/apm/l/vim-mode)
 
 This project will help you to enter array of texts which will be showed one after one in text view after a given delay with/without animation .
 
