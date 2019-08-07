@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoChangeTextView</string>
+    <string-array name="try1">
+        <item>Aashit</item>
+        <item>Himanshu</item>
+        <item>Rupa</item>
+        <item>Hetal</item>
+    </string-array>
+</resources>
