@@ -3,6 +3,7 @@
 [![AutoChangeTextView](https://jitpack.io/v/aashitshah26/AutoChangeTextView.svg)](https://jitpack.io/#aashitshah26/AutoChangeTextView)
 ![](https://img.shields.io/apm/l/vim-mode)
 [![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=19)
+<span class="badge-paypal"><a href="paypal.me/aashitshah26" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
 This project will help you to enter array of texts which will be showed one after one in text view after a given delay with/without animation .
 
